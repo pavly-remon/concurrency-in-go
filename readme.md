@@ -11,4 +11,5 @@
     2) 2.sync-package-mutex
     3) sync-package-rwmutex
     4) sync-package-cond
+    5) buffered-channels
 
